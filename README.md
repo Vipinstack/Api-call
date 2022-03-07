@@ -1,3 +1,9 @@
+Fake Api call user with use loading and react toastify and react bootstrap and some pratice html tag used in this project ---but this project only pratice 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
